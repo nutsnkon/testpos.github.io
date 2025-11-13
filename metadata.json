@@ -1,5 +1,0 @@
-{
-  "name": "ทดสอบ",
-  "description": "A comprehensive Point of Sale (POS) web application built with React and Tailwind CSS. It handles product management, inventory tracking, purchasing, and sales processing, with all data persisted locally in the browser.",
-  "requestFramePermissions": []
-}
